@@ -1,4 +1,4 @@
-# flask-server-static-template \
+# flask-server-static-template 
 clone the repository \ 
 `cd flask-server-static-template` go inside the cloned folder \
 `python -m venv .venv` create environment \
