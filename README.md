@@ -4,4 +4,4 @@ clone the repository \
 `python -m venv .venv` create environment \
 `source .venv/bin/activate` activate environment \
 `pip install -r requirements.txt` install requirements \
-`python app.py` run the app \
+`python app.py` run the app 
